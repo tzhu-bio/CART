@@ -1,3 +1,4 @@
+
 # The Chromatin Accessibility of Rice Tissues (CART)
 Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
 ## Sample
@@ -39,6 +40,15 @@ NIP tissues: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sa
 
 
 NIP, Minghui 63 and Zhenshan 97 tissues mapping to Nipponbare reference: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sativa&gftk=pcGene,full&datahub=http://biobigdata.nju.edu.cn/browser/t/zhuTao_NIP_Ref_TFBS_LASTZ.json)
+
+<h2 align="left">
+ <abc>
+  <br> <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 ## Publication
 Zhu, T., Liao, K., Zhou, R. et al. ATAC-seq with unique molecular identifiers improves quantification and footprinting. *Commun Biol* 3, 675 (2020).
