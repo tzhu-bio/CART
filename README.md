@@ -1,9 +1,7 @@
-<a href="https://github.com/tzhu-bio/CART/stargazers"><img src="https://img.shields.io/github/stars/tzhu-bio/CART" alt="Stars Badge"/></a>
-<a href="https://github.com/tzhu-bio/CART/issues"><img src="https://img.shields.io/github/issues/tzhu-bio/CART" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=tzhu-bio.CART)
-
+<img alt="Documentation" src="https://img.shields.io/badge/Documentation%3F-yes-brightgreen.svg?color=3366CC" target="_blank" /></a>
+<img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?color=DC3912" target="_blank" /> </a>
+<img alt="Published" src="https://img.shields.io/badge/Published%3F-yes-green.svg?color=FF9900" target="_blank" /> </a>
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=tzhu-bio.CART) </a>
 
 # The Chromatin Accessibility of Rice Tissues (CART)
 Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
