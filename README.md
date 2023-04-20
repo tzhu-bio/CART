@@ -1,6 +1,4 @@
 <a href="https://github.com/tzhu-bio/CART/stargazers"><img src="https://img.shields.io/github/stars/tzhu-bio/CART" alt="Stars Badge"/></a>
-<a href="https://github.com/tzhu-bio/CART/network/members"><img src="https://img.shields.io/github/forks/tzhu-bio/CART" alt="Forks Badge"/></a>
-<a href="https://github.com/tzhu-bio/CART/pulls"><img src="https://img.shields.io/github/issues-pr/tzhu-bio/CART" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/tzhu-bio/CART/issues"><img src="https://img.shields.io/github/issues/tzhu-bio/CART" alt="Issues Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
@@ -49,8 +47,6 @@ NIP tissues: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sa
 
 NIP, Minghui 63 and Zhenshan 97 tissues mapping to Nipponbare reference: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sativa&gftk=pcGene,full&datahub=http://biobigdata.nju.edu.cn/browser/t/zhuTao_NIP_Ref_TFBS_LASTZ.json)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzhu-bio&show_icons=true&theme=radical)
 ## Publication
 Zhu, T., Liao, K., Zhou, R. et al. ATAC-seq with unique molecular identifiers improves quantification and footprinting. *Commun Biol* 3, 675 (2020).
 **DOI:** https://doi.org/10.1038/s42003-020-01403-4
@@ -58,3 +54,5 @@ Zhu, T., Liao, K., Zhou, R. et al. ATAC-seq with unique molecular identifiers im
 <a href="mailto:tzhubio@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzhu-bio&show_icons=true&theme=radical)
