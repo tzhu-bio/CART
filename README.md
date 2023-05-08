@@ -4,6 +4,10 @@
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=tzhu-bio.CART) </a>
 [![Last-changedate](https://img.shields.io/badge/last%20change-2023--04--27-green.svg)](https://github.com/tzhu-bio/CART/commits/master)
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=750&lines=The Chromatin Accessibility of Rice Tissues(CART);UMI-ATAC-seq;Nipponbare, Minghui 63, Zhenshan 97;Average 23 Tissues" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
+
 # The Chromatin Accessibility of Rice Tissues (CART)
 Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
 ## Sample
