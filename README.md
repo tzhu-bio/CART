@@ -51,8 +51,7 @@ NIP tissues: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sa
 NIP, Minghui 63 and Zhenshan 97 tissues mapping to Nipponbare reference: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sativa&gftk=pcGene,full&datahub=http://biobigdata.nju.edu.cn/browser/t/zhuTao_NIP_Ref_TFBS_LASTZ.json)
 
 ## Publication
-Zhu, T., Liao, K., Zhou, R. et al. ATAC-seq with unique molecular identifiers improves quantification and footprinting. *Commun Biol* 3, 675 (2020).
-**DOI:** https://doi.org/10.1038/s42003-020-01403-4
+TODO
 
 <a href="mailto:tzhubio@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
