@@ -44,11 +44,9 @@ Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
 | 24 | Panicle3 | Young Panicle | 3-5 mm |
 | 25 | Panicle4 | Young Panicle | 5-10 mm |
 
-## Genome Browser
-NIP tissues: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sativa&gftk=pcGene,full&datahub=http://biobigdata.nju.edu.cn/browser/chiphub/NIP_Final.json)
+## Database
+[CART](https://biobigdata.nju.edu.cn/cart/home)
 
-
-NIP, Minghui 63 and Zhenshan 97 tissues mapping to Nipponbare reference: [click here](https://biobigdata.nju.edu.cn/browser/?genome=oryza_sativa&gftk=pcGene,full&datahub=http://biobigdata.nju.edu.cn/browser/t/zhuTao_NIP_Ref_TFBS_LASTZ.json)
 
 ## Publication
 TODO
