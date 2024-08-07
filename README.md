@@ -51,7 +51,7 @@ The files used by each notebook are available on [figshare](https://doi.org/10.6
 
 
 ## Publication
-TODO
+Zhu, T., Xia, C., Yu, R. et al. Comprehensive mapping and modelling of the rice regulome landscape unveils the regulatory architecture underlying complex traits. Nat Commun 15, 6562 (2024). https://doi.org/10.1038/s41467-024-50787-y
 
 <a href="mailto:tzhubio@gmail.com">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
