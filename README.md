@@ -20,8 +20,8 @@ The files used by each notebook are available on [figshare](https://doi.org/10.6
 ## Sample Sheet
 | # |  Abbreviations  | Tissue | Sampling stage|
 |  ---- |  ----  | ----  | ----  |
-| 1 | AM1  | Apical Meristem | 4-5 leaf stage |
-| 2 | AM2  | Apical Meristem | 45 days after planting |
+| 1 | AM1  | Axillary Meristem | 4-5 leaf stage |
+| 2 | AM2  | Axillary Meristem | 45 days after planting |
 | 3 | Callus | Callus | 14 days after regeneration |
 | 4 | DBuds | Dormant buds | less than 10 mm |
 | 5 | Leaf | Leaf | 4-5 leaf stage |
