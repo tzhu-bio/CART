@@ -12,7 +12,20 @@ Chromatin accessibility in multiple tissues throughout the entire cycle of rice.
 ## Data Availability
 The files used by each notebook are available on [figshare](https://doi.org/10.6084/m9.figshare.25762590.v1).
 # Codes
-[Figure 1](https://nbviewer.org/github/compbioNJU/CART/blob/main/Notebooks/Figure%202.ipynb)
+[Figure 1](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%201.ipynb)
+
+[Figure 2](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%202.ipynb)
+
+[Figure 3](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%203.ipynb)
+
+[Figure 4](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%204.ipynb)
+
+[Figure 5](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%205.ipynb)
+
+[Figure 6](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%206.ipynb)
+
+[Figure 7](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%207.ipynb)
+
 ## Sample
 
 ![image]( https://github.com/tzhu-bio/CART/blob/main/png/sample.png)
