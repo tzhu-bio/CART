@@ -26,7 +26,7 @@ The files used by each notebook are available on [figshare](https://doi.org/10.6
 
 [Figure 7](https://nbviewer.org/github/tzhu-bio/CART/blob/main/Notebooks/Figure%207.ipynb)
 
-## Sample
+## Samples
 
 ![image]( https://github.com/tzhu-bio/CART/blob/main/png/sample.png)
 
